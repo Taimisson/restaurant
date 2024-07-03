@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QMainWindow, QVBoxLayout, QPushButton, QWidget, QLabel, QListWidget, QHBoxLayout, QMessageBox
+from PySide6.QtWidgets import QMainWindow, QVBoxLayout, QPushButton, QWidget, QLabel, QListWidget, QMessageBox
 
 class TelaCozinha(QMainWindow):
     def __init__(self, restaurante):
