@@ -102,4 +102,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-**Desenvolvido por Taimisson C. Schardosim**
+**Desenvolvido por Taimisson C. Schardosim e Guilherme Lenzi**
